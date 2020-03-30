@@ -29,10 +29,10 @@
       }
     },
     "step2": {
-      "title": "Spécifier les horaires d'ouverture"
+      "title": "Horaires d'ouverture"
     },
     "step3": {
-      "title": "Ajouter une précision"
+      "title": "Ajouter une précision (optionnel)"
     },
     "details": "Ajouter des précision",
     "submit": "Publier",
@@ -143,7 +143,7 @@
       "start": "Entrer l'horaire d'ouverture",
       "end": "Entrer l'horaire de fermeture"
     },
-    "add_interval": "Ajouter une durée",
+    "add_interval": "Ajouter un horaire",
     "add_new_days": "Ajouter des jours d'ouverture"
   }
 }
